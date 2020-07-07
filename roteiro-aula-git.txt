@@ -1,0 +1,41 @@
+LOCAL
+
+git commit -a
+git add -> git commit
+
+git checkout head 	- reverte para repositorio
+git checkout		- reverte para stagearea
+
+git diff
+git diff	HEAD
+
+
+REMOTO
+
+git push
+git pull
+
+git fetch - remoto -> local
+---------------------------
+
+git init 		- inicializa o projeto vazio
+git add			- transfere os arquivos para staging
+git add -A		- transfere os modificados
+git add *.js	- transfere filtrado
+
+
+gitK 		-  ferramenta gráfica
+
+git commit --amend -m 'Alterar último comenátarios'
+
+git status	-visualizar arquivos em área temporária
+
+git checkout -b 'NovaPagina' - criar branch e ir
+
+git branch	-listar as branch
+
+git checkout master|novabranch
+
+git merge
+
+git log
